@@ -2,7 +2,7 @@
 
 #### What I am studying
 
-![](https://geps.dev/progress/85) <br/>
+![](https://geps.dev/progress/90) <br/>
 Second Cycle (Master's) Degree / Laurea Magistrale in Computer Engineering at University of Florence.
 
 ![](https://geps.dev/progress/100)<br/>
