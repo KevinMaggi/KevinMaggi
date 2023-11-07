@@ -3,11 +3,14 @@
 #### What I am studying
 
 ![](https://geps.dev/progress/90) <br/>
-Second Cycle (Master's) Degree / Laurea Magistrale in Computer Engineering at University of Florence.
+Second Cycle (Master's) Degree / Laurea Magistrale in Computer Engineering at University of Florence.<br/>
+Thesis: "*Analysis of Code Technical Debt in Microservices Architectures*"<br/>
+Supervisors: PhD. Roberto Verdecchia, Prof. Enrico Vicario
 
 ![](https://geps.dev/progress/100)<br/>
 First Cycle (Bachelor's) Degree / Laurea Triennale in Computer Engineering at University of Florence.<br/>
-Thesis: "*Design and development of a software component for the derivation of Petri preemptive models from specific timeline*"
+Thesis: "*Design and development of a software component for the derivation of Petri preemptive models from specific timeline*"<br/>
+Supervisor: Prof. Enrico Vicario
 
 ![](https://geps.dev/progress/100)<br/>
 High school leaving qualification in scientific studies / Diploma di Liceo Scientifico at Liceo Copernico in Prato.
