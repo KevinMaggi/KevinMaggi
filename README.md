@@ -4,7 +4,7 @@
 
 ![](https://geps.dev/progress/95) <br/>
 Second Cycle (Master's) Degree / Laurea Magistrale in Computer Engineering at University of Florence.<br/>
-Thesis: "*Analysis of Code Technical Debt in Microservices Architectures*"<br/>
+Thesis: "*Analysis of the Evolution of Code Technical Debt in Microservices Architectures*"<br/>
 Supervisors: PhD. Roberto Verdecchia, Prof. Enrico Vicario
 
 ![](https://geps.dev/progress/100)<br/>
