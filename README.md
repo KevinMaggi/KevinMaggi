@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### What I am studying
+#### What I have studied
 
 ![](https://geps.dev/progress/100) <br/>
 Second Cycle (Master's) Degree / Laurea Magistrale in Computer Engineering at University of Florence.<br/>
