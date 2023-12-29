@@ -14,7 +14,7 @@ Thesis: "*Design and development of a software component for the derivation of P
 Supervisor: Prof. Enrico Vicario
 
 ![](https://geps.dev/progress/100)<br/>
-High school leaving qualification in scientific studies / Diploma di Liceo Scientifico at Liceo Copernico in Prato.
+Upper Secondary Education Diploma (Scientific Lyceum) / Diploma di Liceo Scientifico at Liceo Copernico in Prato.
 
 #### Notes
 > :warning: **Please attention**: as you can see I make publicly available some of my university exam projects, therefore anyone is obviously free of taking ideas from those. Anyway if it will be found that someone is copying the code (in the mean CTRL-C / CTRL-V) for its own project of the *same* exam, they will be reported to the Professor.
