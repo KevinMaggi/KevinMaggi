@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### What I am doing
+
+Scholarship Researcher / Borsista di Ricerca at University of Florence (Software Technology Laboratory).
+
 #### What I have studied
 
 ![](https://geps.dev/progress/100) <br/>
