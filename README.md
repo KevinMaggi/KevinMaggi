@@ -2,22 +2,23 @@
 
 #### What I am doing
 
+<img height="20px" width="90px" alt="Current occupation" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Snapmyle_arrow.gif"/> <br/>
 Scholarship Researcher / Borsista di Ricerca at University of Florence (Software Technology Laboratory).
 
 #### What I have studied
 
-![](https://geps.dev/progress/100) <br/>
+![Degree obtained](https://geps.dev/progress/100) <br/>
 Second Cycle (Master's) Degree / Laurea Magistrale in Computer Engineering at University of Florence.<br/>
 Thesis: "*Analysis of the Evolution of Code Technical Debt in Microservices Architectures*"<br/>
 Supervisors: Ph.D. Roberto Verdecchia, Prof. Enrico Vicario<br/>
 Co-supervisor: Ph.D. Leonardo Scommegna
 
-![](https://geps.dev/progress/100)<br/>
+![Degree obtained](https://geps.dev/progress/100)<br/>
 First Cycle (Bachelor's) Degree / Laurea Triennale in Computer Engineering at University of Florence.<br/>
 Thesis: "*Design and development of a software component for the derivation of Petri preemptive models from specific timeline*"<br/>
 Supervisor: Prof. Enrico Vicario
 
-![](https://geps.dev/progress/100)<br/>
+![Title obtained](https://geps.dev/progress/100)<br/>
 Upper Secondary Education Diploma (Scientific Lyceum) / Diploma di Liceo Scientifico at Liceo Copernico in Prato.
 
 #### Notes
