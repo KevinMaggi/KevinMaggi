@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+#### Who I am
+
+<a href="https://orcid.org/0009-0001-0651-805X" style="margin: 20px; text-decoration: none;">
+  <img alt="ORCID logo" src="https://orcid.figshare.com/ndownloader/files/8439047/preview/8439047/preview.jpg" width="32" height="32"/>
+</a>
+<br/>
+<a href="https://scholar.google.com/citations?user=18ohcmAAAAAJ" style="padding: 20px; text-decoration: none;">
+  <img alt="Google Scholar Logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="32" height="32" />
+</a>
+<br/>
+<a href="https://www.researchgate.net/profile/Kevin-Maggi-4" style="padding: 20px; text-decoration: none;">
+  <img alt="ResearchGate Logo" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="32" height="32" />
+</a>
+
+
+
 #### What I am doing
 
 <img height="20px" width="90px" alt="Current occupation" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Snapmyle_arrow.gif"/> <br/>
