@@ -2,10 +2,6 @@
 
 #### Who I am
 
-<a href="https://orcid.org/0009-0001-0651-805X" style="margin: 20px; text-decoration: none;">
-  <img alt="ORCID logo" src="https://orcid.figshare.com/ndownloader/files/8439047/preview/8439047/preview.jpg" width="32" height="32"/>
-</a>
-<br/>
 <a href="https://scholar.google.com/citations?user=18ohcmAAAAAJ" style="padding: 20px; text-decoration: none;">
   <img alt="Google Scholar Logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="32" height="32" />
 </a>
