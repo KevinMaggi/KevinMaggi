@@ -15,7 +15,11 @@
 #### What I am doing
 
 <img height="20px" width="90px" alt="Current occupation" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Snapmyle_arrow.gif"/> <br/>
-Scholarship Researcher / Borsista di Ricerca at University of Florence (Software Technology Laboratory).
+Software Developer at <a href="https://jaewa.com">Jaewa</a>.
+
+#### Previously
+
+Scholarship Researcher / Borsista di Ricerca at University of Florence (<a href="https://stlab.dinfo.unifi.it">Software Technology Laboratory</a>).
 
 #### What I have studied
 
